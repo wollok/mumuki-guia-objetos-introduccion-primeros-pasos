@@ -4,4 +4,6 @@ Aquí veremos los conceptos básicos sobre su manejo.
 
 Veremos qué es un objeto, para qué se lo utiliza, qué conceptos y atributos lo caracterizan, cómo se manipula, entre otras nociones.
 
-¿Empezamos?
+Aun asi, voy 3 párrafos y ya estoy aburrido. Empecemos a desarrollar un juego mientras hacemos la guía.. ¿les parece? A mi siempre me gustó eso de las espaditas, los dragones y la magia, asi que podríamos ir por ahi.
+
+Empecemos.

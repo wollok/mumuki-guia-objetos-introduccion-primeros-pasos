@@ -6,6 +6,6 @@ En un juego de acción medieval, seguramente existirán nuestros héroes, su equ
 
 Vamos a empezar creando nuestro primer objeto, que representará a nuestro mítico héroe. 
 
-Necesitaremos un nombre para poder referenciarlo. Un nombre que represente valentía, heroismo, coraje y masculinidad y belleza. ¿Qué les parece *"Pepito"*? 
+Necesitaremos un nombre para poder referenciarlo. Un nombre que represente valentía, heroismo, coraje, masculinidad y belleza. ¿Qué les parece *"Pepito"*? 
 
 Creá el objeto _Pepito_.

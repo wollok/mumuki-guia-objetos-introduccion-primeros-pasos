@@ -1,7 +1,8 @@
-Ok.. tenemos a Arturo.. pero no hay mucho que podamos hacer.. no?
+Ok.. tenemos a Arturo.. por ahora.. 
 
-¿Alguna vez escuchaste de un héroe que no *luche*? Arturo tiene que poder *luchar*.
+Los héroes pueden morir, no? De hecho, son héroes porque tienen el coraje para afrontar a la muerte cuando los demás no.
 
-Según nuestro modelo de la "realidad", tiene sentido que un Arturo luche, por lo tanto, existirá un mensaje llamado ***luchar*** que Arturo deberá entender.
+Como Arturo es nuestro héroe, y nos interesa que no muera, debemos poder saber su ***salud***.
 
-¡Probalo! Enviale el mensaje a Arturo para que luche durante 30 minutos. 
+Enviale el mensaje **salud** a Arturo.
+

@@ -1,0 +1,9 @@
+---
+name: Introducción - Primeros Pasos
+locale: es
+type: learning
+beta: false
+language: wollok
+id_format: '%05d'
+order:
+- 1

@@ -6,4 +6,4 @@ A nosotros, como interesados en nuestros héroes, nos interesa, por ejemplo, con
 
 Seamos educados y preguntémosle a Arturo cómo está de salud.
 
-Enviale el mensaje **salud** a Arturo.
+Enviale el mensaje **salud()** a Arturo.

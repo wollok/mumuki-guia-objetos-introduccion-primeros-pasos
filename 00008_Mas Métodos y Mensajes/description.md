@@ -9,4 +9,5 @@ Entonces, queremos que Pepito entienda los mensajes herir(unaCantidadDeSalud) y 
 Para ello:
 
 1) Implementar el método herir(unaCantidadDeSalud) que resta el valor recibido por parámetro de su valor actual de salud
+
 2) Implementar el método beberPocion(), que suma 30 puntos a su nivel actual de salud

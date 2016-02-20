@@ -2,7 +2,7 @@ Dado que estamos en objetos y debemos aprender a pensar bajo este paradigma, vam
 
 Entonces: 
 
-1) Creá el objeto **"Roshi"**, quién será hará el papel de entrenador de héroes
+1) Creá el objeto **"Roshi"**, quién hará el papel de entrenador de héroes
 
 2) Implementá el método **"pupilo"** el cual aceptará un *héroe* por parámetro y lo guardará en el atributo **"pupilo"** dentro de *Roshi*
 

@@ -6,5 +6,5 @@ Entonces:
 
 2) Implementá el método **"pupilo(unHeroe)"** el cual aceptará un *héroe* por parámetro y lo guardará en el atributo **"pupilo"** dentro de *Roshi*
 
-3) Utilizando ese atributo, creá el método "entrenarPupilo" el cual utilizará el atributo *"pupilo"* y realizará la prueba que estuvimos haciendo (solicitarle la salud al héroe, herirlo, darle una poción y volverle a solicitar la salud)
+3) Utilizando ese atributo, creá el método "entrenarPupilo()" el cual utilizará el atributo *"pupilo"* y realizará la prueba que estuvimos haciendo (solicitarle la salud al héroe, herirlo, darle una poción y volverle a solicitar la salud)
 

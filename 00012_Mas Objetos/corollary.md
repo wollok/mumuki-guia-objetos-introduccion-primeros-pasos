@@ -1,1 +1,1 @@
-asd
+Para pensar.. qué pasaría si la hicieramos entrenar, así como está, con Roshi (es decir, hacemos que sea su pupila para luego hacer que Roshi la entrene). ¿Funcionaría? 

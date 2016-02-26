@@ -24,4 +24,4 @@ object pepito {
 ```
 
 * ¿Desde afuera, podemos seguir hablando de la misma forma con Pepito? 
-* ¿Qué pasaría si ejecutamos el mismo conjunto de acciones que en el ejercicio anterior? A saber: solicitar la salud de Pepito, herirlo por 30, darle una poción, y consultar nuevamente su estadu de salud.
+* ¿Qué pasaría si ejecutamos el mismo conjunto de acciones que en el ejercicio anterior? A saber: solicitar la salud de Pepito, herirlo por 30, darle una poción, y consultar nuevamente su estado de salud.

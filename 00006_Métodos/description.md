@@ -8,4 +8,4 @@ Por ejemplo: nosotros queremos que Pepito entienda el mensaje "salud". Para que 
 
 Los métodos pueden o no devolver un valor. 
 
-Implementá el método "salud()" en Pepito y hacé que devuelva el valor de su atributo "salud".
+> Implementá el método "salud()" en Pepito y hacé que devuelva el valor de su atributo "salud".

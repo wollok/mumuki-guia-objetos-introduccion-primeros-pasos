@@ -1,1 +1,1 @@
-Al parecer Arturo está bastante bien de salud!
+¡Al parecer Arturo está bastante bien de salud!

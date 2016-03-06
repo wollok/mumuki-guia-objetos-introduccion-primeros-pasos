@@ -1,1 +1,0 @@
-¡Al parecer Arturo está bastante bien de salud!

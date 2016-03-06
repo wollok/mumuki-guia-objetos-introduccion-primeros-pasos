@@ -8,5 +8,5 @@ Los atributos no son otra cosa que referencias a otros objetos. En el caso de la
 
 Por ahora hagamos que Pepito aprenda de Arturo.
 
-Hacé que Pepito tenga el atributo **salud** e inicializalo en 100.
+> Hacé que Pepito tenga el atributo **salud** e inicializalo en 100.
 

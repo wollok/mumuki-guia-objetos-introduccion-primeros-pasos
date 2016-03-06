@@ -8,4 +8,4 @@ Vamos a empezar creando nuestro primer objeto, que representará a nuestro míti
 
 Necesitaremos un nombre para poder referenciarlo. Un nombre que represente valentía, heroismo, coraje, masculinidad y belleza. ¿Qué les parece *"Pepito"*? 
 
-Creá el objeto _Pepito_.
+> Creá el objeto _Pepito_.

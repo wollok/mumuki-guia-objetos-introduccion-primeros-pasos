@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: pepito
+  inspection: HasAttribute

@@ -5,4 +5,4 @@ Las clases generalmente se encargan de dos cosas:
 
 Vamos a ver acá entonces cómo se crean objetos a partir de clases.
 
-Creá a Pepito, pero usando a la clase Heroe.
+Creá a pepito, pero usando a la clase Heroe.

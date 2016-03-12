@@ -4,7 +4,7 @@ La vida de los héroes no es fácil. A veces pueden ser heridos.
 
 Afortunadamente, existen las pociones de salud, para reponer.. su estado de salud.
 
-Entonces, queremos que Pepito entienda los mensajes herir(unaCantidadDeSalud) y beberPocion().
+Entonces, queremos que pepito entienda los mensajes herir(unaCantidadDeSalud) y beberPocion().
 
 Para ello:
 

@@ -34,6 +34,11 @@ object pepito {
 
 object roshi {
   var pupilo
+  
+  method pupilo(unPupilo) {
+    pupilo = unPupilo
+  }
+  
   method entrenarPupilo() {
     pupilo.herir(30)
     pupilo.beberPocion()

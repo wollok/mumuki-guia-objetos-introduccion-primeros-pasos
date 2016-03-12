@@ -1,8 +1,8 @@
 Qué pasaría si.. 
 
-..cambiamos a Pepito!
+..cambiamos a pepito!
 
-Ahora el código de Pepito es el siguiente:
+Ahora el código de pepito es el siguiente:
 
 ```
 object pepito {
@@ -23,5 +23,5 @@ object pepito {
 }
 ```
 
-* ¿Desde afuera, podemos seguir hablando de la misma forma con Pepito? 
-* ¿Qué pasaría si ejecutamos el mismo conjunto de acciones que en el ejercicio anterior? A saber: solicitar la salud de Pepito, herirlo por 30, darle una poción, y consultar nuevamente su estado de salud.
+* ¿Desde afuera, podemos seguir hablando de la misma forma con pepito? 
+* ¿Qué pasaría si ejecutamos el mismo conjunto de acciones que en el ejercicio anterior? A saber: solicitar la salud de pepito, herirlo por 30, darle una poción, y consultar nuevamente su estado de salud.

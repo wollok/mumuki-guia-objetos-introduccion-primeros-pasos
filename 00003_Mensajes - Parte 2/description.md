@@ -1,3 +1,3 @@
-Hagamos lo mismo con nuestro héroe Pepito. 
+Hagamos lo mismo con nuestro héroe pepito. 
 
-> Enviale el mensaje **salud()** a Pepito.
+> Enviale el mensaje **salud()** a pepito.

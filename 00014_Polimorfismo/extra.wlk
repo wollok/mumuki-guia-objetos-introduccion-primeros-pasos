@@ -31,3 +31,11 @@ object pepito {
 	danioImpartido = danioImpartido + unaCantidadDeSalud*2
  } 
 }
+
+object roshi {
+  var pupilo
+  method entrenarPupilo() {
+    pupilo.herir(30)
+    pupilo.beberPocion()
+  }
+}

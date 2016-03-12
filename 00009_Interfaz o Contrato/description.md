@@ -10,5 +10,5 @@ El contrato es útil en muchos sentidos:
 
 Vamos a usar un poco la interfaz de pepito. 
 
-Pedí la salud de Pepito. Luego herilo por 30 puntos, y hacé que tome una poción. Por último, preguntale su salud otra vez. Debería dar 100.
+Pedí la salud de pepito. Luego herilo por 30 puntos, y hacé que tome una poción. Por último, preguntale su salud otra vez. Debería dar 100.
 

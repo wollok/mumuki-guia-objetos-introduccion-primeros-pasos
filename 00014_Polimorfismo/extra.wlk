@@ -40,7 +40,9 @@ object roshi {
   }
   
   method entrenarPupilo() {
+    pupilo.salud()
     pupilo.herir(30)
     pupilo.beberPocion()
+    pupilo.salud()
   }
 }

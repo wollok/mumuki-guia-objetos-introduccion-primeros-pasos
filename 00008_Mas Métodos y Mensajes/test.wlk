@@ -1,5 +1,5 @@
 test "pepito es herido y pierde salud" {
-  pepito.herir(10)
+  pepito.herirUnaCantidad(10)
   assert.equals(90, pepito.salud())
 }
 

@@ -1,5 +1,6 @@
 Acá tenés el código hasta ahora:
 
+```
 object pepito {
   var salud = 100
   
@@ -8,3 +9,4 @@ object pepito {
   }
   
 }
+```

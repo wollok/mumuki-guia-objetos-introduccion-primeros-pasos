@@ -1,5 +1,5 @@
 @Test
-def void pepitoExiste() {
+def void testPepitoExiste() {
     program p {
         pepito   
         this.assertTrue(true)

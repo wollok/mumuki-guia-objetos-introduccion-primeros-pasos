@@ -1,6 +1,3 @@
-@Test
-def void testPepitoExiste() {
-    program p {
-        this.assertEquals(100, pepito.salud)
-    }
+test "pepito tiene salud en 100"{
+	assert.equals(100, pepito.salud())
 }

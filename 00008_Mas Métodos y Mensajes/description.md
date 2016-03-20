@@ -11,3 +11,16 @@ Para ello:
 1) Implementar el método herir(unaCantidadDeSalud) que resta el valor recibido por parámetro de su valor actual de salud
 
 2) Implementar el método beberPocion(), que suma 30 puntos a su nivel actual de salud
+
+Ayuda: Este es el código que teníamos hasta ahora de Pepito:
+
+```
+object pepito {
+  var salud = 100
+  
+  method salud(){ 
+    return salud
+  }
+  
+}
+```

@@ -1,4 +1,4 @@
-Escribi en la consola
-pepito.salud() 
-y presiona enter.
+Escribí en la consola
+`pepito.salud()`
+y presioná enter.
 

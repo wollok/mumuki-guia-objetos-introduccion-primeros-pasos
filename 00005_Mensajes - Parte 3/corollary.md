@@ -1,3 +1,3 @@
 Sí!! Da un error...
 es lo que queríamos ver. 
-El atributo salud no tiene nada que ver con el mensaje salud(). Faltan cosas. Prometemos que enseguida lo arreglamos.Ten
+El atributo salud no tiene nada que ver con el mensaje salud(). Faltan cosas. Prometemos que enseguida lo arreglamos.

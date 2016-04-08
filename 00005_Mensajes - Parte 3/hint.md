@@ -1,1 +1,4 @@
-Si.. va a fallar de vuelta.. siguen faltando cosas. Prometemos que esta es la última.
+Escribi en la consola
+pepito.salud() 
+y presiona enter.
+

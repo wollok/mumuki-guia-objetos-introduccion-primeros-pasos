@@ -15,7 +15,7 @@ object pepito {
  } 
 }
 
-object pepito {
+object pepa {
  var danioImpartido = 0
  var salud = 120
  

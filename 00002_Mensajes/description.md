@@ -1,9 +1,13 @@
-Es muy difícil ser el primero en hacer algo y esto se aplica también a los héroes. En otras palabras, existieron miles de héroes antes del glorioso pepito, y se necesitarán muchos mas en el futuro.. lamentablemente.
+Los objetos no serían demasiado interesantes si sólo pudiéramos declararlos y compararlos por identidad. Al principio de esta lección dijimos que los objetos iban a comunicarse y hacer cosas por nosotros, ¡así que allá vamos!
 
-Por ejemplo, **arturo**, es un héroe experimentado, bien conocido por todos nosotros y justo da la casualidad que podemos tener la oportunidad de hablar con el.
+Por ejemplo, podríamos pedirle a `pepita` que vuele. ¿Cómo podemos darle órdenes a un objeto? Así:
 
-A nosotros, como interesados en nuestros héroes, nos interesa, por ejemplo, conocer su salud. 
+```wollok
+ム pepita.volar()
 
-Seamos educados y preguntémosle a arturo cómo está de salud.
+```
 
-> Enviale el mensaje **salud()** a arturo.
+Esto es lo que se conoce como **enviar un mensaje**: al objeto `pepita`, le enviamos el mensaje `volar()`. Y `pepita` volará..., ¿no?
+
+> Probalo vos mismo: enviale a `pepita` el mensaje `volar()` y fijate qué pasa. 
+

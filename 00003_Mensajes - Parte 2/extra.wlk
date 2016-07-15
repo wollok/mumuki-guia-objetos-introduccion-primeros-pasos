@@ -1,1 +1,5 @@
-object pepito {}
+object pepita {
+   method volar() {
+   
+   }
+}

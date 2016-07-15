@@ -1,9 +1,3 @@
-Con esta lección vamos a adentrarnos en el mundo de la programación orientada a objetos.. quizás el paradigma de programación más utilizado por la industria del desarrollo de software moderna.
-
-Acá vamos a ver los conceptos básicos sobre su manejo utilizando Wollok como lenguaje de programación.
-
-Vamos a ver qué es un objeto, para qué se lo utiliza, qué conceptos y atributos lo caracterizan, cómo se manipula, entre otras nociones.
-
-Aún así, voy 3 párrafos y ya estoy aburrido. Empecemos a desarrollar un juego mientras hacemos la lección.. ¿les parece? A mi siempre me gustó eso de las espaditas, los dragones y la magia, asi que podríamos ir por ahi.
+La programación con objetos, a veces también llamada _orientada a_ objetos, es quizás el paradigma de programación más hoy en día para desarrollar software. Y parte de una idea muy simple: podemos representar al mundo como un _conjunto de objetos_ que interactúan entre ellos. 
 
 ¡Empecemos!

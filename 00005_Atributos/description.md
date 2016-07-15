@@ -4,7 +4,6 @@ Lo que acabamos de expresar son tres cosas diferentes:
 
 ```wollok
 object pepita {
-
   var energia = 500  // 1. 
   
   method volar() {

@@ -8,6 +8,8 @@ language: wollok
 id_format: '%05d'
 order:
 - 1
+- 18
+- 19
 - 2
 - 3
 - 4
@@ -24,5 +26,3 @@ order:
 - 15
 - 16
 - 17
-- 18
-- 19

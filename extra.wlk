@@ -34,4 +34,6 @@ object pepita {
   }
   
   method distancia(unaCiudad) = (ciudad.kilometro() - unaCiudad.kilometro()).abs()
+  
+  method toString() = "un objeto"
 }

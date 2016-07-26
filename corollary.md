@@ -4,4 +4,4 @@
 * Que los objetos hacen poquitas cosas
 * Que los objetos se comunican mediante mensajes
 
-Pero aún queda mucho más por aprender. ¡Te esperamos en la próxia lección!
+Pero aún queda mucho más por aprender. ¡Te esperamos en la próxima lección!

@@ -4,8 +4,8 @@ Por ejemplo, existe otra golondrina, llamada `anastasia`, que también vive en e
 
 > ¡Probablo! Hace las siguientes consultas en la consola: 
 > 
-> `ム pepita`
-> `ム anastasia`
-> `ム 1`
-> `ム "hola mundo"`
-> `ム true`
+> * `ム pepita`
+> * `ム anastasia`
+> * `ム 1`
+> * `ム "hola mundo"`
+> * `ム true`

@@ -14,6 +14,8 @@ object anastasia {
   method cantar() {
     console.println("priiiip priiiip")
   }
+  
+  method toString() = "objeto anastasia"
 }
 
 object pepita {
@@ -35,5 +37,5 @@ object pepita {
   
   method distancia(unaCiudad) = (ciudad.kilometro() - unaCiudad.kilometro()).abs()
   
-  method toString() = "un objeto"
+  method toString() = "objeto pepita"
 }

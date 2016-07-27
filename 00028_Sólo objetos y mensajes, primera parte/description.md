@@ -6,4 +6,7 @@ Pero momento, ¿no dijimos antes que los números, los strings, los booleanos so
 
 Por ejemplo, si queremos  
 
-De igual forma que 
+Recapitulando, tenemos dos tipos de mensajes: 
+
+* de palabra clave
+* de operadores, que son binarios (salvo el !)

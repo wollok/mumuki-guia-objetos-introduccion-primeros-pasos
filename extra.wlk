@@ -27,8 +27,16 @@ object pepita {
     console.println("pri pri pri")
   }
   
-  method comer() {
-    energia += 100
+  method comerLombriz() {
+    self.alimentarse(20)
+  }
+  
+  method alimentarse(unaEnergia) {
+    energia += unaEnergia 
+  }
+  
+  method volarEnCirculos() {
+    energia -= 10
   }
   
   method volarHacia(unaCiudad) {

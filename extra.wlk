@@ -10,10 +10,19 @@ object rosario {
   method kilometro() = 514
 }
 
+object mercedes {
+  method cantar() {
+    console.println("♪ una voz antigua de viento y de sal ♫")
+  } 
+  
+}
+
 object anastasia {
   method cantar() {
     console.println("priiiip priiiip")
   }
+  
+  method volarEnCirculos() {}
   
   method toString() = "objeto anastasia"
 }

@@ -7,7 +7,7 @@ test "interfaz de mercedes" {
 
   /*...content...*/
 
-  assert.equals(interfazMercedes, #{})
+  assert.equals(interfazMercedes, #{"cantar"})
 }
 
 test "interfaz de pepita" {

@@ -5,7 +5,7 @@ interfazPepita = #{
     "volarEnCirculos"
 }  
   
-interfazMeredes = #{
+ = #{
   //...completar acá...
 }
   

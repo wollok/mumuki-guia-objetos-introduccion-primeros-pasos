@@ -18,4 +18,5 @@ Lo cual también se puede graficar de la siguiente forma:
 
 ![interfaz](http://plantuml.com/plantuml/png/JSan3e0m2030tLSmwZkCcvz0H4FIGeFOGUFVrQthdMYmRqWCXOi4mjq1W6W0A_iks0y_L9CL23NGMx3CFbjUNAw6goNqIKTnEfCTtpml)
 
-> Cual será 
+> ¡Un momento! ¿Qué significa `int`? ¿Y `void`? 
+> Enviá nuevamente esos mensajes, varias veces. Y fijate qué devuelve cada uno (lo que está la derecha del `=>`)

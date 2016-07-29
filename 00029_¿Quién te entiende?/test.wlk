@@ -18,7 +18,7 @@ test "interfaz de pepita" {
 
   /*...content...*/
   
-  assert.equals(interfazPepita, #{})
+  assert.equals(interfazPepita, #{ "cantar","comerLombriz"})
 }
 
 test "interfaz de anastasia" {
@@ -28,6 +28,6 @@ test "interfaz de anastasia" {
 
   /*...content...*/
 
-  assert.equals(interfazAnastasia, #{})
+  assert.equals(interfazAnastasia, #{"cantar", "comerLombriz"})
 }
 

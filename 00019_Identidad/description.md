@@ -8,7 +8,7 @@ Podemos comparar por identidad a dos objetos de la siguiente forma:
 
 > ¡Probalo vos mismo! Ejecutá las siguientes pruebas en la consola: 
 > 
-> * `pepita === anastasia`
-> * `anastasia === pepita`
-> * `anastasia === anastasia`
+> * `ム pepita === anastasia`
+> * `ム anastasia === pepita`
+> * `ム anastasia === anastasia`
 >

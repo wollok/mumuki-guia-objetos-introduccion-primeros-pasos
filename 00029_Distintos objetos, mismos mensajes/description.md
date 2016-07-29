@@ -5,3 +5,4 @@ Ya vimos que un objeto puede entender múltiples mensajes, y esos mensajes confo
 > A `pepita` ya la conocemos bien: canta, come, etc. Su amiga `anastasia`, por otro lado, no aprendió nuncaa volar. Y `mercedes` es una reconocida cantora. 
 > 
 > Usando la consola, averiguá cuál es la interfaz de cada una de ellas, y completá el listado de mensajes en el editor
+

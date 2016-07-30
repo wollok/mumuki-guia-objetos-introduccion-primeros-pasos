@@ -2,7 +2,7 @@
 
 test "pepita debe haber perdido energia" {
   /*...content...*/
-  assert.equals(pepita.energia(), 80)
+  assert.equals(pepita.energia(), 4516)
 }
 
 

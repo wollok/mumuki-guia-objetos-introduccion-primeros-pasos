@@ -39,10 +39,10 @@ object pepita {
   }
   
   method comerLombriz() {
-    self.alimentarse(20)
+    energia =+ 20
   }
   
-  method alimentarse(unaEnergia) {
+  method comerAlpiste(unaEnergia) {
     energia += unaEnergia 
   }
   

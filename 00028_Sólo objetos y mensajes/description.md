@@ -4,9 +4,6 @@ Pero momento, ¿no dijimos antes que los números, los strings, los booleanos so
 
 ¡Exacto! :grin: 
 
-Por ejemplo, si queremos  
+Aunque se vean un poco diferentes, todos los siguientes son envíos de mensajes: 
 
-Recapitulando, tenemos dos tipos de mensajes: 
 
-* de palabra clave
-* de operadores, que son binarios (salvo el !)

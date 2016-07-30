@@ -31,6 +31,7 @@ object anastasia {
 
 object pepita {
   var energia = 100
+  var ciudad = null
   
   method energia() = energia
   

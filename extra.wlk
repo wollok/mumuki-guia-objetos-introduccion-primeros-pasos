@@ -34,6 +34,7 @@ object pepita {
   var ciudad = null
   
   method energia() = energia
+  method ciudad() = ciudad
   
   method cantar() {
     console.println("pri pri pri")
@@ -53,6 +54,7 @@ object pepita {
   
   method volarHacia(unaCiudad) {
     energia -= self.distancia(unaCiudad) * 3
+    ciudad = unaCiudad
   }
   
   method distancia(unaCiudad) = (ciudad.kilometro() - unaCiudad.kilometro()).abs()

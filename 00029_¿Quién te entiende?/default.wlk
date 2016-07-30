@@ -3,12 +3,12 @@ interfazPepita = #{
     "cantar", 
     "comerLombriz", 
     "volarEnCirculos"
-}  
-  
-interfazMercedes = #{
-  //...completar acá...
 }
   
 interfazAnastasia = #{
+  //...completar acá...
+}  
+  
+interfazMercedes = #{
   //...completar acá...
 }

@@ -1,5 +1,6 @@
 // ¿qué interfaz comparten mereces y anastasia?
-interfazCompartidaEntreMercedesYAnastasia = #{
+
+ #{
   //...completar acá... 
 }
 

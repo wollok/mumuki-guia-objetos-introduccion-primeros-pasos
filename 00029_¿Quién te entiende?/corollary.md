@@ -6,7 +6,7 @@ pepita.cantar()
 =>
 
 anastasia.cantar()
-"priiiip"
+"priiiip priiiip"
 =>
 ```
 

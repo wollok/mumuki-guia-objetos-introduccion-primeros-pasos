@@ -1,4 +1,4 @@
-Para hacer cosas más interesantes, vamos a necesitar mensajes más complejos :sunglasses:. Por ejemplo, también queremos que pepita coma una cierta cantidad de alpiste, que nos gustaría especificar a nosotrs. Esto podemos escrbirlo de la siguiente forma: 
+Para hacer cosas más interesantes, vamos a necesitar mensajes más complejos :sunglasses:. Por ejemplo, también queremos que `pepita` coma una cierta cantidad de alpiste, que nos gustaría especificar a nosotros. Esto podemos escrbirlo de la siguiente forma: 
 
 ```wollok
 pepita.comerAlpiste(40)

@@ -1,7 +1,7 @@
 Analicemos con un poco más de detalle lo que acabamos de descubrir: 
 
 * todos estos objetos saben cantar, podríamos decir que son `Cantante`s
-* `anastasia` y `pepita`, además de ser `Canante`s, saben comer lombrices y volar en circulos. Podríamos decir que son `Ave`s, o `Golondrina`s
+* `anastasia` y `pepita`, además de ser `Cantante`s, saben comer lombrices y volar en circulos. Podríamos decir que son `Ave`s, o `Golondrina`s
 
 Como ves, al conjunto de mensajes tambien podemos ponerle un nombre, y lo podemos diagramar así:
 

@@ -1,6 +1,6 @@
 Como ves, si envías un mensaje con una cantidad incorrecta de argumentos...
 
-```
+```wollok
 ム pepita.comerAlpiste(6, anastasia)
 objeto pepita does not understand comerAlpiste(p0,p1)
 ```

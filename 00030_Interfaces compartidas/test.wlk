@@ -24,5 +24,5 @@ interfazCompartidaEntrePepitaYAnastasia = #{
   var interfazCompartidaEntrePepitaYAnastasia = null
   
   /*...content...*/ 
-  assert.equals(interfazCompartidaEntrePepitaYAnastasia, #{"cantar", "volar"})
+  assert.equals(interfazCompartidaEntrePepitaYAnastasia, #{"cantar",  "comerLombriz", "volarEnCirculos"})
 }

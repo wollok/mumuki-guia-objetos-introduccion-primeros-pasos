@@ -45,7 +45,7 @@ object pepita {
   }
   
   method comerAlpiste(unaEnergia) {
-    energia += unaEnergia 
+    energia += unaEnergia * 25
   }
   
   method volarEnCirculos() {

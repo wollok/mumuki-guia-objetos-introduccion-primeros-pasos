@@ -24,6 +24,8 @@ object anastasia {
   
   method volarEnCirculos() {}
   
+  method comerLombriz() {}
+  
   method toString() = "objeto anastasia"
 }
 

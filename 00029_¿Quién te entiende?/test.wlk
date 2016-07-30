@@ -28,6 +28,6 @@ test "interfaz de anastasia" {
 
   /*...content...*/
 
-  assert.equals(interfazAnastasia, #{"cantar", "comerLombriz"})
+  assert.equals(interfazAnastasia, #{"cantar", "volarEnCirculos", "comerLombriz"})
 }
 

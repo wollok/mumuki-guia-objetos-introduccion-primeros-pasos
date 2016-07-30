@@ -31,7 +31,7 @@ object anastasia {
 
 object pepita {
   var energia = 100
-  var ciudad = buenosAires
+  var ciudad = rosario
   
   method energia() = energia
   method ciudad() = ciudad

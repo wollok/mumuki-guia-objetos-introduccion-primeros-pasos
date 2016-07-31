@@ -5,6 +5,6 @@ Cuando envía un mensaje a un objeto, y este lo entiende, puede reaccionar de do
 
 :warning: _Para ser justos, un mensaje podría reaccionar con una combinación de las formas anteriores: tener un efecto y devolver algo. Pero esto es normalmente una **muy mala idea**_
 
-> ¿Y qué hay de los mensajes como `comerLombriz` y `volarEnCirculos`? ¿Qué hizo? ¿Qué clase de efecto produjo? ¿Devuelve `energia` siempre lo mismo?
+> ¿Y qué hay de los mensajes como `comerLombriz` y `volarEnCirculos`? ¿Qué hizo? ¿Qué clase de efecto produjo? ¿Devuelve `energia` siempre lo mismo? :thought_balloon:
 > 
 > Descubrilo intercalando varios envíos de mensajes. 

@@ -4,7 +4,7 @@ Pero momento, ¿no dijimos antes que los números, los strings, los booleanos so
 
 ¡Exacto! :grin: Aunque se vean un poco diferentes, todos los siguientes son envíos de mensajes: 
 
-```wollok
+```javascript
 ム 5 + 6
 ム 4 > 6
 ム true || false

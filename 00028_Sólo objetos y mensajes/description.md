@@ -4,15 +4,15 @@ Pero momento, ¿no dijimos antes que los números, los strings, los booleanos so
 
 ¡Exacto! :grin: Aunque se vean un poco diferentes, todos los siguientes son envíos de mensajes: 
 
-```ruby
-ム 5 + 6
-ム 4 > 6
-ム true || false
-ム ! true
-ム "El cisne " + "negro"
-ム "quémese después de leerse".capitalize()
-ム 8.max(10)
-ム 5.abs()
+```javascript
+5 + 6
+4 > 6
+true || false
+! true
+"El cisne " + "negro"
+"quémese después de leerse".capitalize()
+8.max(10)
+5.abs()
 ```
 
 > Probá estos mensajes en la consola

@@ -41,7 +41,7 @@ object pepita {
   }
   
   method comerLombriz() {
-    energia =+ 20
+    energia += 20
   }
   
   method comerAlpiste(unaEnergia) {

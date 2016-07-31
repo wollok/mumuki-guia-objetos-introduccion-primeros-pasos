@@ -26,7 +26,7 @@ object anastasia {
   
   method comerLombriz() {}
   
-  method toString() = "objeto anastasia"
+  override method toString() = "objeto anastasia"
 }
 
 object pepita {
@@ -59,5 +59,5 @@ object pepita {
   
   method distancia(unaCiudad) = (ciudad.kilometro() - unaCiudad.kilometro()).abs()
   
-  method toString() = "objeto pepita"
+  override method toString() = "objeto pepita"
 }

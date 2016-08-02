@@ -8,4 +8,4 @@ Por ejemplo, las siguientes colaboraciones son equivalentes:
 Y las siguientes, también: 
 
 > `4.max(20)`
-> `(8/2).max(20)`
+> `(8/2).max(10.abs() + 10)`

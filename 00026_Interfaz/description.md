@@ -1,4 +1,4 @@
-Como ves, un objeto puede entender múltiples mensajes; a este conjunto de mensajes que podemos enviarle lo denominamos **interfaz**. Por ejemplo, la interfaz de `pepita` es: 
+Como vimos, un objeto puede entender múltiples mensajes; a este conjunto de mensajes que podemos enviarle lo denominamos **interfaz**. Por ejemplo, la interfaz de `pepita` es: 
 
 * `energia()`: nos dice cuanta energía tiene (un número)
 * `cantar()`: hace que cante

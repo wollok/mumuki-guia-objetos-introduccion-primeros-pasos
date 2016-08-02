@@ -33,6 +33,7 @@ object pepita {
   var energia = 100
   var ciudad = rosario
   
+  method energia(unaEnergia) { energia = unaEnergia  }
   method energia() = energia
   method ciudad() = ciudad
   

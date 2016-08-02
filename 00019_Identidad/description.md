@@ -11,4 +11,4 @@ Podemos comparar por identidad a dos objetos de la siguiente forma:
 > * `ム pepita === anastasia`
 > * `ム anastasia === pepita`
 > * `ム anastasia === anastasia`
->
+> * `ム "hola" === "hola"`

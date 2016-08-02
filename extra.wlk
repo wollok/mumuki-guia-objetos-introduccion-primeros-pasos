@@ -12,14 +12,14 @@ object rosario {
 
 object mercedes {
   method cantar() {
-    console.println("♪ una voz antigua de viento y de sal ♫")
+    mumukiConsole.println("♪ una voz antigua de viento y de sal ♫")
   } 
   
 }
 
 object anastasia {
   method cantar() {
-    console.println("priiiip priiiip")
+    mumukiConsole.println("priiiip priiiip")
   }
   
   method volarEnCirculos() {}
@@ -37,7 +37,7 @@ object pepita {
   method ciudad() = ciudad
   
   method cantar() {
-    console.println("pri pri pri")
+    mumukiConsole.println("pri pri pri")
   }
   
   method comerLombriz() {

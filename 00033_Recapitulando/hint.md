@@ -2,4 +2,10 @@ Cualquier envío de mensaje que devuelva algo es una expresión válida, que pue
 
 Por ejemplo, las siguientes colaboraciones son equivalentes: 
 
-> `
+> `miAuto.cargarNafta(30)`
+> `miAuto.cargarNafta(10 + 20)`
+
+Y las siguientes, también: 
+
+> `4.max(20)`
+> `(8/2).max(20)`

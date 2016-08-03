@@ -1,7 +1,8 @@
-Entonces, como vimos, en un mundo de objetos, todo lo que tenemos son objetos y mensajes, que pueden ser de tres tipos: 
+Entonces, como vimos, en un mundo de objetos, todo lo que tenemos son objetos y mensajes, que pueden ser de dos tipos: 
 
-* unarios: operadores de un parámetro, como la negación `!true`
-* binarios: operadores de dos parámetros, como `orson === gardfield`
+* operadores: 
+  * mensajes que no toman argumentos, como la negación `!true`
+  * mensajes que toman un argumento, como `orson === gardfield`
 * mensajes de palabra clave: su nombre es una palabra, y se envía mediante un punto:
   * pueden no tomar argumentos, como `rayuela.autor()`
   * o pueden tomar uno o más argumentos, separados por coma: `sanMartin.cruzar(losAndes, caballo)`

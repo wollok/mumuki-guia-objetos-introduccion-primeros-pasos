@@ -13,6 +13,6 @@ Y en cualquier caso, pueden tener un retorno o bien producir un efecto.
 >  
 > 1. Coma 500 gramos de alpiste
 > 1. Vuele a buenos aires
-> 1. Finalmente, coma tanto alpise como el 10% de su energía. 
+> 1. Finalmente, coma tanto alpiste como el 10% de su energía. 
 > 
 > Este programa tiene que andar sin importar con cuanta energía arranque `pepita`.

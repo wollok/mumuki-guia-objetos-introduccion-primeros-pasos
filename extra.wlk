@@ -38,7 +38,7 @@ object pepita {
   method ciudad() = ciudad
   
   method cantar() {
-    mumukiConsole.println("pri pri pri")
+    //mumukiConsole.println("pri pri pri")
   }
   
   method comerLombriz() {

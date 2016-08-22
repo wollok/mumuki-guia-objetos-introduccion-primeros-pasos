@@ -14,6 +14,7 @@ object mercedes {
   method cantar() {
     mumukiConsole.println("♪ una voz antigua de viento y de sal ♫")
   } 
+  
 }
 
 object anastasia {

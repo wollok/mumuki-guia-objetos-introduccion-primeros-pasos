@@ -1,13 +1,16 @@
 object buenosAires {
   method kilometro() = 0
+  override method toString() = "objeto buenosAires"
 }
 
 object santaFe {
   method kilometro() = 315
+  override method toString() = "objeto santaFe"
 }
 
 object rosario {
   method kilometro() = 514
+  override method toString() = "objeto rosario"
 }
 
 object mercedes {
@@ -15,6 +18,7 @@ object mercedes {
     mumukiConsole.println("♪ una voz antigua de viento y de sal ♫")
   } 
   
+  override method toString() = "objeto mercedes"
 }
 
 object anastasia {

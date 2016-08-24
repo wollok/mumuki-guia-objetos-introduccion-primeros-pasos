@@ -9,7 +9,7 @@ test "interfazCompartidaEntreMercedesYAnastasia" {
   assert.equals(interfazCompartidaEntreMercedesYAnastasia, #{"cantar"})
 }
 
-test "interfazCompartidaEntreTodas" = #{
+test "interfazCompartidaEntreTodas" {
   var interfazCompartidaEntreMercedesYAnastasia = null
   var interfazCompartidaEntreTodas = null
   var interfazCompartidaEntrePepitaYAnastasia = null
@@ -18,7 +18,7 @@ test "interfazCompartidaEntreTodas" = #{
   assert.equals(interfazCompartidaEntreTodas, #{"cantar"})
 }
 
-test "interfazCompartidaEntrePepitaYAnastasia" = #{
+test "interfazCompartidaEntrePepitaYAnastasia" {
   var interfazCompartidaEntreMercedesYAnastasia = null
   var interfazCompartidaEntreTodas = null
   var interfazCompartidaEntrePepitaYAnastasia = null

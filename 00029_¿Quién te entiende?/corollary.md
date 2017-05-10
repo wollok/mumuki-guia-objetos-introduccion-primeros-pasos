@@ -1,4 +1,4 @@
-¡Así es! Un mensaje puede ser entendido por más de un objeto. Notá que no obstante no todos los objetos están obligados a reaccionar de igual forma ante el mismo mensaje: 
+¡Así es! Un mensaje puede ser entendido por más de un objeto. Notá que, no obstante, no todos los objetos están obligados a reaccionar de igual forma ante el mismo mensaje: 
 
 ```wollok
 pepita.cantar()

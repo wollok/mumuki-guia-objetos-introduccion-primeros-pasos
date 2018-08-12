@@ -5,5 +5,5 @@ Pero esto no parece ser muy útil. ¿Qué cosas sabrá hacer una golondrina como
 > Averiguémoslo: _enviémosle un mensaje_ `cantar()` y veamos qué pasa
 > 
 > ```
-> ム pepita.cantar()`
+> ム pepita.cantar()
 > ```

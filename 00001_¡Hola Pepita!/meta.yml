@@ -1,10 +1,9 @@
 ---
 tags: []
-layout: input_right
+layout: input_bottom
 editor: code
-type: playground
+type: problem
 extra_visible: false
-teacher_info: ''
-manual_evaluation: false
+manual_evaluation: true
 choices: []
 name: "¡Hola Pepita!"

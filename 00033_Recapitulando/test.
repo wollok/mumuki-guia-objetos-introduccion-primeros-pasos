@@ -1,6 +1,6 @@
 /*...extra...*/
 
-test "pepita queda en 150" {
+test "pepita queda en 250" {
   pepita.energia(10000)
   /*...content...*/
   assert.equals(39895.0, pepita.energia())

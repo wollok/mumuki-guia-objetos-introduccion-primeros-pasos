@@ -3,7 +3,6 @@ name: Objetos y mensajes
 locale: es
 type: learning
 beta: false
-teacher_info: ''
 language: wollok
 id_format: "%05d"
 order:
@@ -23,3 +22,4 @@ order:
 - 34
 - 28
 - 33
+private: false

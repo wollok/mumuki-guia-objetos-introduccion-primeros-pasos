@@ -1,11 +1,11 @@
 _Wow, ¿que acaba de suceder acá?_ :open_mouth:
 
-Para comunicarnos con los objetos, debemos enviarles _mensajes_. Cuando un objeto recibe un mensaje, este responde _haciendo algo_. En este caso, `pepita` produjo el sonido de una golondrína `pri pri pri` _...imaginate acá que [escuchamos este sonido](https://www.youtube.com/watch?v=gGvb7aVp0QI)... :wink:_. 
+Para comunicarte con los objetos, le podés enviar _mensajes_. Cuando un objeto recibe un mensaje, responde _de alguna manera_, en este caso con su canto típico.  
 
-¿Qué mas sabrá hacer `pepita`? ¿Sabrá, por ejemplo, bailar? :dancer:
+¿Qué más sabrá le querés pedir a `pepita`? ¿Sabrá, por ejemplo, saludar? 
  
-> ¡Descubrámoslo! Enviale el mensaje `bailar()`
+> ¡Descubrámoslo! Enviale el mensaje `saludar()`
 > 
 > ```wollok
-> ム pepita.bailar()
+> ム pepita.saludar()
 > ```

@@ -1,16 +1,15 @@
-_¡Buu, `pepita` no sabía bailar! :cry:_
+_¡Buu, `pepita` no sabía saludar! :cry:_
 
-En el mundo de los objetos, sólo tiene sentido enviarle un mensaje a un objeto si lo entiende, es decir, si sabe hacer algo como reacción a ese mensaje. De lo contrario, se lanzará un error: 
+En el mundo de los objetos, no podés pretender que un objeto sepa hacer de todo... sólo tiene sentido enviarle ciertos mensajes a un objeto, aquellos que el objeto entiende. Si el objeto sabe hacer algo como reacción a ese mensaje, lo hará. De lo contrario se lanzará un error: 
 
 ```
-objeto pepita does not understand bailar()
+objeto pepita does not understand saludar()
 ```
 
-> Descubramos qué otras cosas sabe hacer `pepita`. Probá enviarle los siguientes mensajes y fijate cuáles entiende y cuales no. ¡Y anotalos!, este conocimiento nos servirá en breve. 
+> Descubramos qué otras cosas sabe responder `pepita`. Probá enviarle los siguientes mensajes y fijate cuáles entiende, cuales no y qué es lo que responde. ¡Y anotalos!, este conocimiento nos servirá en breve. 
 > 
 > * `ム pepita.pasear()`
 > * `ム pepita.energia()`
-> * `ム pepita.comerLombriz()`
-> * `ム pepita.volarEnCirculos()`
+> * `ム pepita.estasFeliz()`
 > * `ム pepita.cantidadDeOjivasNucleares()`
 

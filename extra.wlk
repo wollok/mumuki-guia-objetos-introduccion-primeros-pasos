@@ -1,36 +1,36 @@
 object buenosAires {
   method kilometro() = 0
-  override method toString() = "objeto buenosAires"
+  override method toString() = "buenosAires"
 }
 
 object santaFe {
   method kilometro() = 315
-  override method toString() = "objeto santaFe"
+  override method toString() = "santaFe"
 }
 
 object rosario {
   method kilometro() = 514
-  override method toString() = "objeto rosario"
+  override method toString() = "rosario"
 }
 
 object mercedes {
   method cantar() {
-    mumukiConsole.println("♪ una voz antigua de viento y de sal ♫")
+    return "♪ una voz antigua de viento y de sal ♫"
   } 
   
-  override method toString() = "objeto mercedes"
+  override method toString() = "mercedes"
 }
 
 object anastasia {
   method cantar() {
-    mumukiConsole.println("priiiip priiiip")
+    return "priiiip priiiip"
   }
   
   method volarEnCirculos() {}
   
   method comerLombriz() {}
   
-  override method toString() = "objeto anastasia"
+  override method toString() = "anastasia"
 }
 
 object pepita {
@@ -42,7 +42,8 @@ object pepita {
   method ciudad() = ciudad
   
   method cantar() {
-    mumukiConsole.println("pri pri pri")
+    //mumukiConsole.println("pri pri pri")
+    return "pri pri pri"
   }
   
   method comerLombriz() {
@@ -56,6 +57,9 @@ object pepita {
   method volarEnCirculos() {
     energia -= 10
   }
+  method estasFeliz() {
+    return energia > 90
+  }
   
   method volarHacia(unaCiudad) {
     energia -= self.distancia(unaCiudad) * 3
@@ -64,5 +68,5 @@ object pepita {
   
   method distancia(unaCiudad) = (ciudad.kilometro() - unaCiudad.kilometro()).abs()
   
-  override method toString() = "objeto pepita"
+  override method toString() = "pepita"
 }

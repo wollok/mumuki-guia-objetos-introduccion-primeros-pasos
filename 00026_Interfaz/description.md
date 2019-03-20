@@ -1,22 +1,6 @@
-Como vimos, un objeto puede entender múltiples mensajes; a este conjunto de mensajes que podemos enviarle lo denominamos **interfaz**. Por ejemplo, la interfaz de `pepita` es: 
+Como vimos, un objeto puede entender múltiples mensajes; a este conjunto de mensajes que podés enviarle lo denominamos **interfaz**. Por ejemplo, por lo que vimos hasta ahora, la interfaz de `pepita` es: 
 
 * `energia()`: nos dice cuanta energía tiene (un número)
-* `cantar()`: hace que cante
-* `comerLombriz()`: hace que coma una lombriz
-* `volarEnCirculos()`: hace que vuele en circulos
+* `cantar()`: nos responde con su canto
+* `estasFeliz()`: nos dice si está feliz o no
 
-<!--
-interface pepita {
-   int energia()
-   void cantar()
-   void comerLombriz()
-   void volarEnCirculos()
-}
--->
-
-Lo cual también se puede graficar de la siguiente forma:
-
-![interfaz](http://plantuml.com/plantuml/png/JSan3e0m2030tLSmwZkCcvz0H4FIGeFOGUFVrQthdMYmRqWCXOi4mjq1W6W0A_iks0y_L9CL23NGMx3CFbjUNAw6goNqIKTnEfCTtpml)
-
-> ¡Un momento! ¿Qué significa `int`? ¿Y `void`? 
-> Enviá nuevamente esos mensajes. Y fijate qué devuelve cada uno (lo que está a la derecha del `=>`)

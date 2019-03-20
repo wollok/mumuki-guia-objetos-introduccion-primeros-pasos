@@ -1,28 +1,23 @@
-Veamos si queda claro, siendo que las interfaces de `anastasia`, `pepita` y `mercedes`son las siguientes: 
+Veamos si queda claro:  las interfaces de los objetos son las siguientes: 
 
-<!--
-@startuml
-interface pepita {
-   int energia()
-   void cantar()
-   void comerLombriz()
-   void volarEnCirculos()
-}
+pepita:
+  energia()
+  cantar()
+  comerLombriz()
+  volarEnCirculos()
+  estasFeliz()
 
-interface anastasia() {
-   void cantar()
-   void comerLombriz()
-   void volarEnCirculos()
-}
+anastasia:
+  cantar()
+  comerLombriz()
+  volarEnCirculos()
 
-interface mercedes {
-   void cantar()
-}
-@enduml
--->
+mercedes: 
+  cantar()
 
-<img src="http://plantuml.com/plantuml/png/hOqn3eD030JxUuNBy0wKBf_O70wonDd8vr20-3kWI8Y2CksiTaOqs3_8J2EF4g0b4P5e42jxBtWq1vXCEihGW5-15VQNbRVBVC6J3V2djkBvErZTbpKbEKDGr40zrB_QF-Nx9tF7zSwyRW00"/>
 
-Esto significa que comparten algunos mensajes y otros no. ¿Que interfaces comparten entre ellas? 
+Esto significa que comparten algunos mensajes y otros no, que en algunos casos le podes hacer las mismas preguntas a diferentes objetos y cada uno responde a su manera. 
+Pero tampoco le podes pedir cualquier cosa a todo objeto. Depende de lo que cada objeto sepa hacer.
 
-> Completá el código en el editor
+
+> Comprobá que todos los objetos canten y que `mercedes` no sabe nada de vuelo. 

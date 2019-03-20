@@ -5,7 +5,7 @@ Entonces, como vimos, en un mundo de objetos, todo lo que tenemos son objetos y 
   * o pueden tomar uno o más argumentos, separados por coma: `sanMartin.cruzar(losAndes, caballo)`
 * operadores: 
   * mensajes que no toman argumentos, como la negación `!true`
-  * mensajes que toman un argumento, como `orson === gardfield`
+  * mensajes que toman un argumento, como `orson == gardfield`
 
 Y en cualquier caso, pueden tener un retorno o bien producir un efecto. 
 

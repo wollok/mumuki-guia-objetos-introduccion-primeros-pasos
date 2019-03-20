@@ -1,8 +1,7 @@
-Ya entendimos que en un ambiente hay objetos, y que cada uno de ellos tiene _identidad_: sabe que es diferente de otro. 
+Ya entendimos que en un ambiente hay objetos, que cada uno de ellos existe y tiene _identidad_: pero esto no parece ser muy útil...
+¿Qué cosas querés saber de `pepita` que le quieras preguntar o pedir? ¿Sabrá, por ejemplo, `cantar`? :microphone:
 
-Pero esto no parece ser muy útil. ¿Qué cosas sabrá hacer una golondrina como `pepita`? ¿Sabrá, por ejemplo, `cantar`? :microphone:
-
-> Averiguémoslo: _enviémosle un mensaje_ `cantar()` y veamos qué pasa
+> Averiguémoslo: _enviémosle un mensaje_ `cantar()` y veamos qué nos responde
 > 
 > ```
 > ム pepita.cantar()

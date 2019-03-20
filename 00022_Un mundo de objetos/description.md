@@ -4,7 +4,7 @@ Por ejemplo, existe también `anastasia`, que también vive en este **ambiente**
 
 > ¡Probablo! Hace las siguientes consultas en la consola: 
 > 
-> * `ムanastasia`
+> * `ム anastasia`
 > * `ム 1`
 > * `ム "hola mundo"`
 > * `ム true`

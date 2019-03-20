@@ -1,19 +1,22 @@
 Veamos si queda claro:  las interfaces de los objetos son las siguientes: 
 
-pepita:
-  energia()
-  cantar()
-  comerLombriz()
-  volarEnCirculos()
-  estasFeliz()
+`pepita`:
 
-anastasia:
-  cantar()
-  comerLombriz()
-  volarEnCirculos()
+*  energia()
+*  cantar()
+*  comerLombriz()
+*  volarEnCirculos()
+*  estasFeliz()
 
-mercedes: 
-  cantar()
+`anastasia`:
+
+*  cantar()
+*  comerLombriz()
+*  volarEnCirculos()
+
+`mercedes`: 
+
+*  cantar()
 
 
 Esto significa que comparten algunos mensajes y otros no, que en algunos casos le podes hacer las mismas preguntas a diferentes objetos y cada uno responde a su manera. 

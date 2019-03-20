@@ -50,8 +50,8 @@ object pepita {
     energia += 20
   }
   
-  method comerAlpiste(unaEnergia) {
-    energia += unaEnergia * 15
+  method comerAlpiste(gramos) {
+    energia += gramos * 15
   }
   
   method volarEnCirculos() {
@@ -67,6 +67,11 @@ object pepita {
   }
   
   method distancia(unaCiudad) = (ciudad.kilometro() - unaCiudad.kilometro()).abs()
+  
+  method comerAlpisteYVolarHacia(gramos, unaCiudad) {
+    self.comerAlpiste(gramos)
+    self.volarHacia(unaCiudad)
+  }
   
   override method toString() = "pepita"
 }

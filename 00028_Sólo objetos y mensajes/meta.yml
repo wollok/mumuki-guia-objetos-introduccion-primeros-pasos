@@ -4,6 +4,6 @@ layout: input_bottom
 editor: 0
 type: playground
 extra_visible: false
-manual_evaluation: true
+manual_evaluation: false
 choices: []
 name: Sólo objetos y mensajes

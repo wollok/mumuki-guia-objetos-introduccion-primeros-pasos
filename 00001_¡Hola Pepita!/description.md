@@ -6,4 +6,4 @@ No nos preocupa aún determinar qué es o cómo es, nos basta con saber que `pep
 
 > ¿No nos creés que está viva y es un objeto? ¡Comprobalo!
 > 
-> Escribí en la consola `pepita`, presiona <Enter> y fijate qué sucede
+> Escribí en la consola `pepita`, presiona <kbd>Enter</kbd> y fijate qué sucede

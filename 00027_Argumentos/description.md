@@ -14,6 +14,6 @@ También, un mensaje podría tener varios argumentos, y en este caso se separan 
 >
 > * `pepita.volarHacia(rosario)`
 > * `pepita.comerAlpiste(39)`
-> * `pepita.comerAlpisteYVolarHacia(10, cordoba)`
+> * `pepita.comerAlpisteYVolarHacia(10, santaFe)`
 > * `pepita.comerAlpiste(6, anastasia)`
 > * `pepita.comerAlpiste()`

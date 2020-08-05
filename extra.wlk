@@ -46,9 +46,9 @@ object pepita {
     return "pri pri pri"
   }
   
-  method saludar() {
-    return "Hola!"
-  }
+//  method saludar() {
+//    return "Hola!"
+//  }
   
   method comerLombriz() {
     energia += 20
